@@ -21,7 +21,7 @@ A community wallet + fraud alert platform where Guam residents can:
 ## Funding Goal
 $500-$10k to complete development, security audit, and launch
 
-## Team
+## Team Developer
 Ritan Borja- Developer
 Markus Cummins 
 Stephlyn Matisima
