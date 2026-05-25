@@ -22,7 +22,7 @@ A community wallet + fraud alert platform where Guam residents can:
 $500-$10k to complete development, security audit, and launch
 
 ## Team Developer
-Ritan Borja- Developer
+Ritan Borja
 Markus Cummins 
 Stephlyn Matisima
 Pollyann Santiago 
